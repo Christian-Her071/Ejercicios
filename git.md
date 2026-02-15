@@ -128,3 +128,4 @@ git diff → Diferencias entre versiones
 git show → Detalles de un commit
 
 git log --oneline --graph → Historial visual resumido
+
